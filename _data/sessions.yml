@@ -6,3 +6,322 @@ syllabus:
   type: 'Information'
   url: 'syllabus'
 
+lesson-01:
+  segment: 'week-01'
+  title: "Exploring c. 3 & Historical c. 12"
+  icon: web_stories
+  header: 'Lesson 1'
+  sequence: 1
+  url: 'lesson-01'
+
+lesson-02:
+  segment: 'week-02'
+  title: "Exploring c. 10 & Historical chs. 13-14"
+  icon: web_stories
+  header: 'Lesson 2'
+  sequence: 2
+  url: 'lesson-02'
+
+lesson-03:
+  segment: 'week-03'
+  title: "Exploring chs. 1-2, 4, 11 & Historical chs. 15-16 & Parables chs. 1-3"
+  icon: web_stories
+  header: 'Lesson 3'
+  sequence: 3
+  url: 'lesson-03'
+
+lesson-04:
+  segment: 'week-04'
+  title: "Exploring chs. 7-8 & Historical chs. 17-18 & Parables chs. 4-6"
+  icon: web_stories
+  header: 'Lesson 4'
+  sequence: 4
+  url: 'lesson-04'
+
+lesson-05:
+  segment: 'week-05'
+  title: "Exploring c. 12 & Historical chs. 19-20 & Parables chs. 7-10"
+  icon: web_stories
+  header: 'Lesson 5'
+  sequence: 5
+  url: 'lesson-05'
+
+lesson-06:
+  segment: 'week-06'
+  title: "Historical chs. 21-22"
+  icon: web_stories
+  header: 'Lesson 6'
+  sequence: 6
+  url: 'lesson-06'
+
+video-01:
+  segment: 'week-01'
+  title: "Course Video"
+  icon: tv
+  header: 'Video 1'
+  sequence: 1
+  url: 'video-01'
+  videos:
+    - https://drive.google.com/file/d/167-ijTgTuHE-zosxUHN_Digb3qUxLQGl/preview
+
+video-02:
+  segment: 'week-01'
+  title: "Interpreting the Gospels"
+  icon: tv
+  header: 'Video 2'
+  sequence: 2
+  url: 'video-02'
+  videos:
+    - https://drive.google.com/file/d/1OgP7RHM8dFJzpx0W-Z_LrqWnmoiEI09_/preview
+
+video-03:
+  segment: 'week-01'
+  title: "Gospel of Matthew"
+  icon: tv
+  header: 'Video 3'
+  sequence: 3
+  url: 'video-03'
+  videos:
+    - https://drive.google.com/file/d/1pEdeJ1MaZlhoNydSWKQCUcKGPRnnvVE7/preview
+
+video-04:
+  segment: 'week-02'
+  title: "Gospel of Matthew"
+  icon: tv
+  header: 'Video 4 & 5'
+  sequence: 4
+  url: 'video-04'
+  videos:
+    - https://drive.google.com/file/d/18GMYNlhIJtY5Ku3yuushi-hzQxb5b5P3/preview
+
+video-06:
+  segment: 'week-02'
+  title: "Gospel of Matthew"
+  icon: tv
+  header: 'Video 6'
+  sequence: 6
+  url: 'video-06'
+  videos:
+    - https://drive.google.com/file/d/1pK2AD-Gl-uvmswg0Q-WXnAvRFr-uE_Ee/preview
+
+video-07:
+  segment: 'week-02'
+  title: "Gospel of Matthew"
+  icon: tv
+  header: 'Video 7'
+  sequence: 7
+  url: 'video-07'
+  videos:
+    - https://drive.google.com/file/d/1dImXOiajevCuvEscZGsLkuqlaAyVGBzu/preview
+
+video-08:
+  segment: 'week-03'
+  title: "Book of Luke"
+  icon: tv
+  header: 'Video 8'
+  sequence: 8
+  url: 'video-08'
+  videos:
+    - https://drive.google.com/file/d/1pN7SbL-9NyXHYyzDWCuHbJSD-_p7IIcD/preview
+
+video-09:
+  segment: 'week-03'
+  title: "Book of Luke"
+  icon: tv
+  header: 'Video 9'
+  sequence: 9
+  url: 'video-09'
+  videos:
+    - https://drive.google.com/file/d/1rK4QGWyk5dtZ-o88POojn_-1wxfqDjrj/preview
+
+video-10:
+  segment: 'week-03'
+  title: "Book of Luke"
+  icon: tv
+  header: 'Video 10'
+  sequence: 10
+  url: 'video-10'
+  videos:
+    - https://drive.google.com/file/d/1qyvXokxMBmkmjGAar8YYfHQxm9omqOxD/preview
+
+video-11:
+  segment: 'week-03'
+  title: "Book of Luke"
+  icon: tv
+  header: 'Video 11'
+  sequence: 11
+  url: 'video-11'
+  videos:
+    - https://drive.google.com/file/d/12m028gF_sD0Iq5rPdkh4BAaAVZbImTSt/preview
+
+video-12:
+  segment: 'week-04'
+  title: "Book of Luke &mdash; Feeding 5000"
+  icon: tv
+  header: 'Video 12'
+  sequence: 12
+  url: 'video-12'
+  videos:
+    - https://drive.google.com/file/d/14IrijQQWwGZGmDajAb8GbvaBgcw5VFQt/preview
+
+video-13:
+  segment: 'week-04'
+  title: "Book of Luke"
+  icon: tv
+  header: 'Video 13'
+  sequence: 13
+  url: 'video-13'
+  videos:
+    - https://drive.google.com/file/d/1q1ujr9HQJrmgJMcRvmrwtgMw6fVd1Fh5/preview
+
+video-14:
+  segment: 'week-04'
+  title: "Book of Luke"
+  icon: tv
+  header: 'Video 14'
+  sequence: 14
+  url: 'video-14'
+  videos:
+    - https://drive.google.com/file/d/1-CaQ5XG27MF1yjxf_7a2ruGJ_YFp3cVU/preview
+
+video-15:
+  segment: 'week-04'
+  title: "Book of Luke"
+  icon: tv
+  header: 'Video 15'
+  sequence: 15
+  url: 'video-15'
+  videos:
+    - https://drive.google.com/file/d/1YxqQZ5PkPKNgGq9q2WtIEjuRpQqsKbXq/preview
+
+video-16:
+  segment: 'week-04'
+  title: "Book of Luke"
+  icon: tv
+  header: 'Video 16'
+  sequence: 16
+  url: 'video-16'
+  videos:
+    - https://drive.google.com/file/d/1x2DMKLF3Wr98mf0GKVcmt_ZEtQH-vwTw/preview
+
+video-17:
+  segment: 'week-04'
+  title: "Book of Luke"
+  icon: tv
+  header: 'Video 17'
+  sequence: 17
+  url: 'video-17'
+  videos:
+    - https://drive.google.com/file/d/133RyyD_a1efv82upqVT6lI_L_Alkscqd/preview
+
+video-18:
+  segment: 'week-05'
+  title: "Book of John"
+  icon: tv
+  header: 'Video 18'
+  sequence: 18
+  url: 'video-18'
+  videos:
+    - https://drive.google.com/file/d/1SRdpHcxXlz8Kpioi_8gkXszBag_-r27j/preview
+
+video-19:
+  segment: 'week-05'
+  title: "Book of John"
+  icon: tv
+  header: 'Video 19'
+  sequence: 19
+  url: 'video-19'
+  videos:
+    - https://drive.google.com/file/d/14UJkrO1LQkx0GPwC5dWxamO_vmMtpZIO/preview
+
+video-20:
+  segment: 'week-05'
+  title: "Book of John"
+  icon: tv
+  header: 'Video 20'
+  sequence: 20
+  url: 'video-20'
+  videos:
+    - https://drive.google.com/file/d/1K7dscNuxLc2k0cP2Cn7lPtE6D-M3zdjS/preview
+
+video-21:
+  segment: 'week-06'
+  title: "Book of John"
+  icon: tv
+  header: 'Video 21'
+  sequence: 21
+  url: 'video-21'
+  videos:
+    - https://drive.google.com/file/d/1QP20xlloyxR0R4TSz_3OTwxbt75JNikR/preview
+
+video-22:
+  segment: 'week-06'
+  title: "Book of John"
+  icon: tv
+  header: 'Video 22'
+  sequence: 22
+  url: 'video-22'
+  videos:
+    - https://drive.google.com/file/d/1Af404brFYT6_3F7kHhkEBC29gIeMtCHA/preview
+
+quiz-01:
+  segment: 'week-02'
+  title: "Matthew"
+  icon: quiz
+  header: 'Quiz 1'
+  sequence: 1
+  url: 'quiz-01'
+  due: 2023-03-12
+  points: 30
+
+quiz-02:
+  segment: 'week-03'
+  title: "Wenham & Walton"
+  icon: quiz
+  header: 'Quiz 2'
+  sequence: 2
+  url: 'quiz-02'
+  due: 2023-03-23
+  points: 30
+
+quiz-03:
+  segment: 'week-04'
+  title: "Half of Luke"
+  icon: quiz
+  header: 'Quiz 3'
+  sequence: 3
+  url: 'quiz-03'
+  due: 2023-03-26
+  points: 30
+
+quiz-04:
+  segment: 'week-06'
+  title: "John"
+  icon: quiz
+  header: 'Quiz 4'
+  sequence: 4
+  url: 'quiz-04'
+  due: 2023-04-08
+  points: 30
+
+paper-01:
+  segment: 'week-06'
+  title: "Exegetical Term Paper"
+  icon: notes
+  header: 'Paper 1'
+  sequence: 1
+  type: 'Paper'
+  url: 'paper-01'
+  due: 2023-04-08
+  points: 100
+
+paper-02:
+  segment: 'week-06'
+  title: "Book Report"
+  icon: notes
+  header: 'Paper 2'
+  sequence: 2
+  type: 'Paper'
+  url: 'paper-02'
+  due: 2023-04-08
+  points: 150
