@@ -1,0 +1,86 @@
+week-01:
+  title: 'Week 1'
+  segment: ['week', 1]
+  begin: 2023-02-27
+  end: 2023-03-05
+  theme: c1
+  items:
+    - syllabus
+    - reading-01
+    - video-01
+    - video-02
+    - video-03
+
+week-02:
+  title: 'Week 2'
+  segment: ['week', 2]
+  begin: 2023-03-06
+  end: 2023-03-12
+  theme: c3
+  items:
+    - reading-02
+    - video-04
+    - video-05
+    - video-06
+    - video-07
+    - study-01
+    - quiz-01
+
+week-03:
+  title: 'Week 3'
+  segment: ['week', 3]
+  begin: 2023-03-13
+  end: 2023-03-19
+  theme: c5
+  items:
+    - reading-03
+    - video-08
+    - video-09
+    - video-10
+    - video-11
+    - study-02
+    - quiz-02
+
+week-04:
+  title: 'Week 4'
+  segment: ['week', 4]
+  begin: 2023-03-20
+  end: 2023-03-26
+  theme: c7
+  items:
+    - reading-04
+    - video-12
+    - video-13
+    - video-14
+    - video-15
+    - video-16
+    - video-17
+    - study-03
+    - quiz-03
+
+week-05:
+  title: 'Week 5'
+  segment: ['week', 5]
+  begin: 2023-03-27
+  end: 2023-04-02
+  theme: c9
+  items:
+    - reading-05
+    - video-18
+    - video-19
+    - video-20
+
+week-06:
+  title: 'Week 6'
+  segment: ['week', 6]
+  begin: 2023-04-03
+  end: 2023-04-08
+  theme: c10
+  items:
+    - reading-06
+    - video-21
+    - video-22
+    - study-04
+    - quiz-04
+    - term-paper
+    - book-report
