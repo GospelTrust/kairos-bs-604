@@ -24,7 +24,7 @@
 
 ### General Resources
 
-<dl>
+<dl class='poem'>
    <dd>Barrett C. K., Editor. The New Testament Background. HarperSanFrancisco, 1989. Reprint, 1956.*</dd>
    <dd>Brown, Raymond E. The Birth of the Messiah. New York: Doubleday, 1977.</dd>
    <dd>________. The Death of the Messiah. 2 Volumes. New York: Doubleday, 1994.</dd>
@@ -43,14 +43,14 @@
 
 ### New Testament Introductions
 
-<dl>
+<dl class='poem'>
    <dd>Brown, Raymond E. An Introduction to the New Testament. Anchor Bible Reference Library. New York: Doubleday, 1997.</dd>
 </dl>
 
 <hr class='section' />
 
 ### Dictionaries
-<dl>
+<dl class='poem'>
    <dd>Baker, David W., Dictionary of the Old Testament: Pentateuch. Downers Grove, Ill.: InterVarsity Press, 2003</dd>
    <dd>Bromiley, Geoffrey W. et al., eds. The International Standard Bible Encyclopedia. Grand Rapids: Eerdmans, 1979-88.</dd>
    <dd>Draper, Charles W., Chad Brand, and Archie England. Holman Illustrated Bible Dictionary. Holman Reference; Revised edition, 2003.</dd>
@@ -67,7 +67,7 @@
 <hr class='section' />
 
 ### Commentaries
-<dl>
+<dl class='poem'>
    <dd>Barrett, C. K. A Critical and Exegetical Commentary on the Acts of the Apostles, 2 vols. Edinburgh: T.  & T. Clark, 1994-98.</dd>
    <dd>Bock, Darrell L. Luke 1:1-9:50. Baker Exegetical Commentary on the New Testament 3A. Grand Rapids: Baker Books, 1994.</dd>
    <dd>________. Luke 9:51-24:53. Baker Exegetical Commentary on the New Testament 3B. Grand Rapids: Baker Books, 1996.</dd>

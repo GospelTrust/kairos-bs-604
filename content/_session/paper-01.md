@@ -80,17 +80,15 @@ Your focus must be on the historical — what might the text have meant to its a
 <sub>Part 3</sub>
 ### Application
 
-#### Application
-
 (`10 points`) Include at the end of your paper about 200-400 words on how this text applies to you and your community (or the contemporary world) today. In making the leap from what the text meant to what the text means, students are to ask the following questions:
 
 - __Universal level analysis__: How does what I have learned from the passage affect the way I think about God, the world/society, the church in general?
 
 - __Personal level analysis__: How does what I have learned from the passage affect the way I live? How does this message (or messages) challenge or encourage me personally?
 
-```
+<pre>
 Questions are based on Donald Hagner's discussion in, New Testament Exegesis and Research: A Guide for Seminarians (Pasadena: Fuller Seminary Press, 1992), 23.
-```
+</pre>
 
 Feel free to write in this Application Section in the first-person pronoun. As you do, push yourself to go beyond "I have learned a lot." Think about how the text informs your life and unique experiences. The Application portion should not be an afterthought in your exegetical analysis, but the culmination of it! This is where you work out how the message of the text gets traction in life... in your life!
 
@@ -106,7 +104,9 @@ Please follow the following style, format, and grammar expectations:
 
 2. Heading to include Name, Date, Class Name [single spaced]. Do not use a title page.
 
-3. Font: Times New Roman 12-Point Font (Times New Roman 10 for footnotes) 4. Margins = one inch.
+3. Font: Times New Roman 12-Point Font (Times New Roman 10 for footnotes)
+
+4. Margins = one inch.
 
 5. 1½ spaced [except Heading, which is single spaced].
 
