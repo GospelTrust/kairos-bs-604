@@ -1,7 +1,9 @@
 ---
 ---
 
-## Exegetical Assignment — Research and Application
+## Exegetical Assignment
+
+Research and Application
 
 <sub>Part 2</sub>
 ### Research and Interpretation
@@ -31,22 +33,22 @@ Choose one scriptural passage in the section of Mark 1-5, 9-10, 12-13 or Luke 11
 
    Description | Literary Elements
    :--- | :---
-   Discover the Context (Why do you begin and end here? What comes before and after the passage?) <br/>_Do not base your decision on verses, chapters, or headings—none of these are in the original Greek text of the Bible!_
-   __Translations and Word Meanings__<br/>Consult several different translations of your passage (e.g. NRSV, NIV, RSV, NASB, ESV). Record any variant meanings/nuances and modify/ improve your interpretation based on the different nuances of the translations, _if they are significant_!<br/>Include any insights from commentaries on meanings of key words/phrases (commentaries will be consulted below in Historical Background)
+   Discover the Context (Why do you begin and end here? What comes before and after the passage?) <br/>_Do not base your decision on verses, chapters, or headings—none of these are in the original Greek text of the Bible!_ |
+   __Translations and Word Meanings__<br/>Consult several different translations of your passage (e.g. NRSV, NIV, RSV, NASB, ESV). Record any variant meanings/nuances and modify/ improve your interpretation based on the different nuances of the translations, _if they are significant_!<br/>Include any insights from commentaries on meanings of key words/phrases (commentaries will be consulted below in Historical Background) |
    ~~Synoptic Parallels or Intertextual References This is not required. But if helpful, list synoptic parallels only if the version differs in other gospels and explain why you think so~~ | Omit this unless you feel it is necessary to your interpretation.
-   __Character(s)__<br/>List all the characters and their roles in the passage.
-   __Audience__<br/>Can you tell from the text who the audience is?That is, who is being addressed in their writing?
-   __Observe Grammar and Structure/Ask Questions__<br/> (comparison, contrast, parallelism, series, simile, metaphor, cause/effect, statement/response, irony, and so forth). Ask who, what, when, why where, how, so? See W (Wenham/Walton) p. 105.
-   __Speaker__<br/>Is there a speech or dialogue in the text? If so, who is making the speech or dialogue?
-   __Genre__<br/>What is the genre or literary category? Some sample genres are: 1) speech; 2) narrative; 3) hymn;4) parable; 5) dialogue; 6) sermon; 7) poetry; 8) prophecy; 9) prayer; 10) command, etc.
-   __Setting__<br/>Where is the passage set? What is the geographic location (i.e., on a mountain, in a plain, in a valley, near water)? Is it in a city or a village? A farm or in the wilderness? On a road? If so, where are they traveling from/to?
-   __Time__<br/>(if relevant—do not make up answer if the text does not indicate anything)! During what season of the year is the text set? What time of day? Is a holy day involved?
-   __Key Word(s), Phrase(s), or Theme(s)__<br/>List any key words, phrases, or themes. Key words, phrases, or themes are words, phrases, or themes that 1) are repeated; or 2) have significant meaning.
-   __Historical Background__<br/>Are there references to historical background that will be necessary to understand the text? Are there workers, rulers, tribal leaders, kings, or queens mentioned? Are there references to any ethnic groups? Any events? Religious leaders/issues? _Add insights from commentaries and research on historical background. Modify your interpretation appropriately._
-   __Socio-cultural Elements__<br/>What social conventions can you identify? Does eating, drinking, dining, traveling come into play?  Who has/doesn't have power? Who is "in"? Who is "out"? How is gender or kinship structured (i.e., who is exercising power and agency and can you tell why)? Is there evidence of patronage or benefaction? Is honor or shame a factor? _Add insights from commentaries/research._
-   Summarize your Interpretation of the Passage in a Sentence or Two (thesis statement)
-   Interpret the Content of the Passage after your research and reading of commentaries (What does it mean; don’t “skip over” puzzling things that you don’t understand--do your best to deal with difficult verses. This should be the main section of your paper). Now try to answer unanswered questions and understand what is puzzling with the help of resources
-   __Application__: does the passage state or imply how it should be applied? See Part 3 Below:
+   __Character(s)__<br/>List all the characters and their roles in the passage. |
+   __Audience__<br/>Can you tell from the text who the audience is?That is, who is being addressed in their writing? |
+   __Observe Grammar and Structure/Ask Questions__<br/> (comparison, contrast, parallelism, series, simile, metaphor, cause/effect, statement/response, irony, and so forth). Ask who, what, when, why where, how, so? See W (Wenham/Walton) p. 105. |
+   __Speaker__<br/>Is there a speech or dialogue in the text? If so, who is making the speech or dialogue? |
+   __Genre__<br/>What is the genre or literary category? Some sample genres are: 1) speech; 2) narrative; 3) hymn;4) parable; 5) dialogue; 6) sermon; 7) poetry; 8) prophecy; 9) prayer; 10) command, etc. |
+   __Setting__<br/>Where is the passage set? What is the geographic location (i.e., on a mountain, in a plain, in a valley, near water)? Is it in a city or a village? A farm or in the wilderness? On a road? If so, where are they traveling from/to? |
+   __Time__<br/>(if relevant—do not make up answer if the text does not indicate anything)! During what season of the year is the text set? What time of day? Is a holy day involved? |
+   __Key Word(s), Phrase(s), or Theme(s)__<br/>List any key words, phrases, or themes. Key words, phrases, or themes are words, phrases, or themes that 1) are repeated; or 2) have significant meaning. |
+   __Historical Background__<br/>Are there references to historical background that will be necessary to understand the text? Are there workers, rulers, tribal leaders, kings, or queens mentioned? Are there references to any ethnic groups? Any events? Religious leaders/issues? _Add insights from commentaries and research on historical background. Modify your interpretation appropriately._ |
+   __Socio-cultural Elements__<br/>What social conventions can you identify? Does eating, drinking, dining, traveling come into play?  Who has/doesn't have power? Who is "in"? Who is "out"? How is gender or kinship structured (i.e., who is exercising power and agency and can you tell why)? Is there evidence of patronage or benefaction? Is honor or shame a factor? _Add insights from commentaries/research._ |
+   Summarize your Interpretation of the Passage in a Sentence or Two (thesis statement) |
+   Interpret the Content of the Passage after your research and reading of commentaries (What does it mean; don’t “skip over” puzzling things that you don’t understand--do your best to deal with difficult verses. This should be the main section of your paper). Now try to answer unanswered questions and understand what is puzzling with the help of resources |
+   __Application__: does the passage state or imply how it should be applied? See Part 3 Below: |
 
    - KEY TIPS:
       1. Do not rely on headings in the Bible or Chapter Divisions since they were added by editors. They will only serve to short-circuit your exegesis and rob you of the joy of discovery. If you let others do the thinking for you, you have not actually performed exegesis but have provided a catalog of what others have said.
@@ -76,7 +78,7 @@ Your focus must be on the historical — what might the text have meant to its a
 <hr class='section' />
 
 <sub>Part 3</sub>
-### Application (all new material in italics)
+### Application
 
 #### Application
 
@@ -86,7 +88,9 @@ Your focus must be on the historical — what might the text have meant to its a
 
 - __Personal level analysis__: How does what I have learned from the passage affect the way I live? How does this message (or messages) challenge or encourage me personally?
 
-```Questions are based on Donald Hagner's discussion in, New Testament Exegesis and Research: A Guide for Seminarians (Pasadena: Fuller Seminary Press, 1992), 23.```
+```
+Questions are based on Donald Hagner's discussion in, New Testament Exegesis and Research: A Guide for Seminarians (Pasadena: Fuller Seminary Press, 1992), 23.
+```
 
 Feel free to write in this Application Section in the first-person pronoun. As you do, push yourself to go beyond "I have learned a lot." Think about how the text informs your life and unique experiences. The Application portion should not be an afterthought in your exegetical analysis, but the culmination of it! This is where you work out how the message of the text gets traction in life... in your life!
 

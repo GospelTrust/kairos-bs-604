@@ -219,7 +219,9 @@ C- | 70-72  | D- | 60-62
     - Jesus’ Migrations and Liminal Withdrawals in Matthew
     - Relational Discipleship through Experiential Learning
 
-  - Books – Wenham/Walton Chapters 3, 10 | Keener, Chapters 12-14.
+  - Books:
+    - Wenham/Walton Chapters 3, 10
+    - Keener, Chapters 12-14.
 
 <hr class='section' />
 
@@ -304,7 +306,5 @@ C- | 70-72  | D- | 60-62
   - Books:
     - Wenham/Walton Chapters 12.
     - Keener, Chapters 19-22.
-
-<hr class='section' />
 
 <hr class='logo' />
