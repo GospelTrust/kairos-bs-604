@@ -13,6 +13,7 @@ lesson-01:
   header: 'Lesson 1'
   sequence: 1
   url: 'lesson-01'
+  videos: [ 'ZxFK8f7GVH8' ]
 
 lesson-02:
   segment: 'week-02'
