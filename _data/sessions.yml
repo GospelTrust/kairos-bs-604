@@ -268,9 +268,8 @@ video-22:
 quiz-01:
   segment: 'week-02'
   title: "Matthew"
-  icon: quiz
+  icon: bolt
   header: 'Quiz 1'
-  sequence: 1
   url: 'quiz-01'
   due: 2023-03-12
   points: 30
@@ -278,9 +277,8 @@ quiz-01:
 quiz-02:
   segment: 'week-03'
   title: "Wenham & Walton"
-  icon: quiz
+  icon: bolt
   header: 'Quiz 2'
-  sequence: 2
   url: 'quiz-02'
   due: 2023-03-23
   points: 30
@@ -288,20 +286,18 @@ quiz-02:
 quiz-03:
   segment: 'week-04'
   title: "Half of Luke"
-  icon: quiz
+  icon: bolt
   header: 'Quiz 3'
-  sequence: 3
   url: 'quiz-03'
   due: 2023-03-26
   points: 30
 
-quiz-04:
+final:
   segment: 'week-06'
   title: "John"
-  icon: quiz
-  header: 'Quiz 4'
-  sequence: 4
-  url: 'quiz-04'
+  icon: electric_bolt
+  header: 'Final'
+  url: 'final'
   due: 2023-04-08
   points: 30
 
