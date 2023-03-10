@@ -78,6 +78,7 @@ video-02:
 video-03:
   segment: 'week-01'
   title: "Gospel of Matthew"
+  part: 1
   icon: tv
   header: 'Video 3'
   sequence: 3
@@ -88,6 +89,7 @@ video-03:
 video-04:
   segment: 'week-02'
   title: "Gospel of Matthew"
+  part: 2 & 3
   icon: tv
   header: 'Video 4 & 5'
   sequence: 4
@@ -98,6 +100,7 @@ video-04:
 video-06:
   segment: 'week-02'
   title: "Gospel of Matthew"
+  part: 4
   icon: tv
   header: 'Video 6'
   sequence: 6
@@ -108,6 +111,7 @@ video-06:
 video-07:
   segment: 'week-02'
   title: "Gospel of Matthew"
+  part: 5
   icon: tv
   header: 'Video 7'
   sequence: 7
@@ -117,7 +121,8 @@ video-07:
 
 video-08:
   segment: 'week-03'
-  title: "Book of Luke"
+  title: "Gospel of Luke"
+  part: 1
   icon: tv
   header: 'Video 8'
   sequence: 8
@@ -127,7 +132,8 @@ video-08:
 
 video-09:
   segment: 'week-03'
-  title: "Book of Luke"
+  title: "Gospel of Luke"
+  part: 2
   icon: tv
   header: 'Video 9'
   sequence: 9
@@ -137,7 +143,8 @@ video-09:
 
 video-10:
   segment: 'week-03'
-  title: "Book of Luke"
+  title: "Gospel of Luke"
+  part: 3
   icon: tv
   header: 'Video 10'
   sequence: 10
@@ -147,7 +154,8 @@ video-10:
 
 video-11:
   segment: 'week-03'
-  title: "Book of Luke"
+  title: "Gospel of Luke"
+  part: 4
   icon: tv
   header: 'Video 11'
   sequence: 11
@@ -157,7 +165,8 @@ video-11:
 
 video-12:
   segment: 'week-04'
-  title: "Book of Luke &mdash; Feeding 5000"
+  title: "Gospel of Luke"
+  part: 5
   icon: tv
   header: 'Video 12'
   sequence: 12
@@ -167,7 +176,8 @@ video-12:
 
 video-13:
   segment: 'week-04'
-  title: "Book of Luke"
+  title: "Gospel of Luke"
+  part: 6
   icon: tv
   header: 'Video 13'
   sequence: 13
@@ -177,7 +187,8 @@ video-13:
 
 video-14:
   segment: 'week-04'
-  title: "Book of Luke"
+  title: "Gospel of Luke"
+  part: 7
   icon: tv
   header: 'Video 14'
   sequence: 14
@@ -187,7 +198,8 @@ video-14:
 
 video-15:
   segment: 'week-04'
-  title: "Book of Luke"
+  title: "Gospel of Luke"
+  part: 8
   icon: tv
   header: 'Video 15'
   sequence: 15
@@ -197,7 +209,8 @@ video-15:
 
 video-16:
   segment: 'week-04'
-  title: "Book of Luke"
+  title: "Gospel of Luke"
+  part: 9
   icon: tv
   header: 'Video 16'
   sequence: 16
@@ -207,7 +220,8 @@ video-16:
 
 video-17:
   segment: 'week-04'
-  title: "Book of Luke"
+  title: "Gospel of Luke"
+  part: 10
   icon: tv
   header: 'Video 17'
   sequence: 17
@@ -217,7 +231,8 @@ video-17:
 
 video-18:
   segment: 'week-05'
-  title: "Book of John"
+  title: "Gospel of John"
+  part: 1
   icon: tv
   header: 'Video 18'
   sequence: 18
@@ -227,7 +242,8 @@ video-18:
 
 video-19:
   segment: 'week-05'
-  title: "Book of John"
+  title: "Gospel of John"
+  part: 2
   icon: tv
   header: 'Video 19'
   sequence: 19
@@ -237,7 +253,8 @@ video-19:
 
 video-20:
   segment: 'week-05'
-  title: "Book of John"
+  title: "Gospel of John"
+  part: 3
   icon: tv
   header: 'Video 20'
   sequence: 20
@@ -247,7 +264,8 @@ video-20:
 
 video-21:
   segment: 'week-06'
-  title: "Book of John"
+  title: "Gospel of John"
+  part: 4
   icon: tv
   header: 'Video 21'
   sequence: 21
@@ -257,7 +275,8 @@ video-21:
 
 video-22:
   segment: 'week-06'
-  title: "Book of John"
+  title: "Gospel of John"
+  part: 5
   icon: tv
   header: 'Video 22'
   sequence: 22
