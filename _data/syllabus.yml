@@ -3,7 +3,7 @@ week-01:
   segment: ['week', 1]
   begin: 2023-02-27
   end: 2023-03-05
-  theme: c1
+  theme: c2
   items:
     - syllabus
     - lesson-01
@@ -16,7 +16,7 @@ week-02:
   segment: ['week', 2]
   begin: 2023-03-06
   end: 2023-03-12
-  theme: c3
+  theme: c2
   items:
     - lesson-02
     - video-04
@@ -29,7 +29,7 @@ week-03:
   segment: ['week', 3]
   begin: 2023-03-13
   end: 2023-03-19
-  theme: c5
+  theme: c4
   items:
     - lesson-03
     - video-08
@@ -43,7 +43,7 @@ week-04:
   segment: ['week', 4]
   begin: 2023-03-20
   end: 2023-03-26
-  theme: c7
+  theme: c4
   items:
     - lesson-04
     - video-12
@@ -59,7 +59,7 @@ week-05:
   segment: ['week', 5]
   begin: 2023-03-27
   end: 2023-04-02
-  theme: c9
+  theme: c6
   items:
     - lesson-05
     - video-18
@@ -71,11 +71,11 @@ week-06:
   segment: ['week', 6]
   begin: 2023-04-03
   end: 2023-04-08
-  theme: c10
+  theme: c6
   items:
     - lesson-06
     - video-21
     - video-22
-    - quiz-04
+    - final
     - paper-01
     - paper-02

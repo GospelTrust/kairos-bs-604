@@ -194,4 +194,117 @@ C  | 73-76  | D  | 63-66
 C- | 70-72  | D- | 60-62
    |        | F  | Below 60
 
+<hr class='section' />
+
+<sub>Section I (March 4-17, 2023)</sub>
+## Gospel Introductions
+
+- Matthew, Mark, Luke, John comparisons and contrasts
+
+  Sound and unsound ways to interpret the Gospels
+
+- The Gospel of Matthew
+  - Narrative themes, purpose, audience
+  - Galilee in Matthew’s Narrative
+    - Matthew’s historical context, genealogy, Jewish-Gentile Tension, Magi (chapters 1-3)
+    - Galilee of the Gentiles, circle of the peoples (4:12-17)
+    - The calling of Matthew: the marginalized Galilean (9:9-13)
+    - The calling of Galileans: the marginalized people (4:18-25; 26:69-75)
+    - Jesus’ Multicultural and Missiological Mission (10:5-6; 12:1-21; 15:12-28; 28:16-20).
+
+- Readings:
+
+  - Articles by Hertig, Paul
+    - Geographical Marginality in the Matthean Journeys of Jesus
+    - Jesus’ Migrations and Liminal Withdrawals in Matthew
+    - Relational Discipleship through Experiential Learning
+
+  - Books:
+    - Wenham/Walton Chapters 3, 10
+    - Keener, Chapters 12-14.
+
+<hr class='section' />
+
+<sub>Section II (March 18-31, 2023)</sub>
+## The Gospel of Luke and Mark's Influence
+
+- Introducing Luke, the Author
+
+- Introducing Luke, the Gospel
+  - Narrative themes, purpose, audience
+
+- Interpreting Luke, the Gospel
+  - Historical context and literary context. Luke acknowledges Mark
+  - Contemporary Context
+  - Application
+
+- The Upside-Down Kingdom, Mary’s Song (1:46-55)
+
+- The Upside-Down Kingdom, The Birth of Jesus and Baptism of John (3:1-23)
+
+- Jesus’ Mission, Downward Mobility, the Jubilee Message (4:14-44 [Mark 6:1-6])
+
+- Rich and Poor, Jubilee reversals (Luke 6:20-26, 7:18-23, 14:15-23)
+
+- Disciples Pick Grain. Woman Avoids Disdain (Luke 6-7)
+
+- Feeding of 5000 and Parables (9:10-17 [Mark 6:31-44], 10:25-37, 15:1-31 [Mark 7:24-29])
+
+- Jesus crosses boundaries and borders (17:1-4, 17:11-19 [Mark 1:40-45], 19:1-10, 21:1-3)
+
+- The King Enters Jerusalem (Luke 19 [Mark 11:1-33])
+
+- The King Rejected. The King on Trial Luke (20-23)
+
+- The Crucifixion and Resurrection (Luke 23-24)
+
+- Readings:
+  - Articles by Hertig, Paul
+    - The Jubilee Mission of Jesus in the Gospel of Luke
+    - The Subversive Kingship of Jesus In Luke
+
+  - Books
+    - Wenham/Walton Chapters 1, 2, 4, 11, 7, 8.
+    - Stein, Robert H. An Introduction to the Parables of Jesus, pp. 15-169 (entire book).
+    - Keener, Chapters 15-18.
+
+<hr class='section' />
+
+<sub>Section III (April 1-8, 2023)</sub>
+## The Gospel of John
+
+- Introducing John, the Author
+
+- Introducing John, the Gospel
+  - Narrative themes, purpose, audience
+  - Historical context and literary context
+
+- Jesus: The Word made flesh
+  - Grace and Truth vs. the Law (1:17)
+    - Saving the world rather than condemning the world (3:16-18)
+
+  - The Way, the Truth, the Life (14:6)
+    - What does this mean when Jesus says it? How is it translated?
+
+- Nicodemus, a Pharisee, contrasts the Samaritan woman, a Gentile (John 3-4)
+  - Born of water born of flesh, born of spirit (3:5-6)
+
+- Jesus and the Samaritan Woman
+  - Nothing but surprises; every barrier broken
+  - Who really is this woman?
+    - Her reputation and impact on the town
+
+  - Jesus’ Samaritan Mission Significance for the early church mission (John 4)
+  - The Man Born Blind (John 9)
+    - The blind sees the unblind as blinded
+    - Why is there suffering in the world?
+
+- Readings:
+  - Article by Hertig, Paul
+    - The Powerful and Vulnerable Intercultural Encounters of Jesus.
+
+  - Books:
+    - Wenham/Walton Chapters 12.
+    - Keener, Chapters 19-22.
+
 <hr class='logo' />
