@@ -64,6 +64,8 @@ video-01:
   url: 'video-01'
   videos:
     - https://drive.google.com/file/d/167-ijTgTuHE-zosxUHN_Digb3qUxLQGl/preview
+  audio:
+    - /assets/audio/bs604-01.mp3
 
 video-02:
   segment: 'week-01'
@@ -74,6 +76,8 @@ video-02:
   url: 'video-02'
   videos:
     - https://drive.google.com/file/d/1OgP7RHM8dFJzpx0W-Z_LrqWnmoiEI09_/preview
+  audio:
+    - /assets/audio/bs604-02.mp3
 
 video-03:
   segment: 'week-01'
@@ -85,6 +89,8 @@ video-03:
   url: 'video-03'
   videos:
     - https://drive.google.com/file/d/1pEdeJ1MaZlhoNydSWKQCUcKGPRnnvVE7/preview
+  audio:
+    - /assets/audio/bs604-03.mp3
 
 video-04:
   segment: 'week-02'
@@ -96,6 +102,9 @@ video-04:
   url: 'video-04'
   videos:
     - https://drive.google.com/file/d/18GMYNlhIJtY5Ku3yuushi-hzQxb5b5P3/preview
+  audio:
+    - /assets/audio/bs604-04.mp3
+    - /assets/audio/bs604-05.mp3
 
 video-06:
   segment: 'week-02'
@@ -107,6 +116,8 @@ video-06:
   url: 'video-06'
   videos:
     - https://drive.google.com/file/d/1pK2AD-Gl-uvmswg0Q-WXnAvRFr-uE_Ee/preview
+  audio:
+    - /assets/audio/bs604-06.mp3
 
 video-07:
   segment: 'week-02'
@@ -118,6 +129,8 @@ video-07:
   url: 'video-07'
   videos:
     - https://drive.google.com/file/d/1dImXOiajevCuvEscZGsLkuqlaAyVGBzu/preview
+  audio:
+    - /assets/audio/bs604-07.mp3
 
 video-08:
   segment: 'week-03'
@@ -129,6 +142,8 @@ video-08:
   url: 'video-08'
   videos:
     - https://drive.google.com/file/d/1pN7SbL-9NyXHYyzDWCuHbJSD-_p7IIcD/preview
+  audio:
+    - /assets/audio/bs604-08.mp3
 
 video-09:
   segment: 'week-03'
@@ -140,6 +155,8 @@ video-09:
   url: 'video-09'
   videos:
     - https://drive.google.com/file/d/1rK4QGWyk5dtZ-o88POojn_-1wxfqDjrj/preview
+  audio:
+    - /assets/audio/bs604-09.mp3
 
 video-10:
   segment: 'week-03'
@@ -151,6 +168,8 @@ video-10:
   url: 'video-10'
   videos:
     - https://drive.google.com/file/d/1qyvXokxMBmkmjGAar8YYfHQxm9omqOxD/preview
+  audio:
+    - /assets/audio/bs604-10.mp3
 
 video-11:
   segment: 'week-03'
@@ -162,6 +181,8 @@ video-11:
   url: 'video-11'
   videos:
     - https://drive.google.com/file/d/12m028gF_sD0Iq5rPdkh4BAaAVZbImTSt/preview
+  audio:
+    - /assets/audio/bs604-11.mp3
 
 video-12:
   segment: 'week-04'
@@ -173,6 +194,8 @@ video-12:
   url: 'video-12'
   videos:
     - https://drive.google.com/file/d/14IrijQQWwGZGmDajAb8GbvaBgcw5VFQt/preview
+  audio:
+    - /assets/audio/bs604-12.mp3
 
 video-13:
   segment: 'week-04'
@@ -184,6 +207,8 @@ video-13:
   url: 'video-13'
   videos:
     - https://drive.google.com/file/d/1q1ujr9HQJrmgJMcRvmrwtgMw6fVd1Fh5/preview
+  audio:
+    - /assets/audio/bs604-13.mp3
 
 video-14:
   segment: 'week-04'
@@ -195,6 +220,8 @@ video-14:
   url: 'video-14'
   videos:
     - https://drive.google.com/file/d/1-CaQ5XG27MF1yjxf_7a2ruGJ_YFp3cVU/preview
+  audio:
+    - /assets/audio/bs604-14.mp3
 
 video-15:
   segment: 'week-04'
@@ -206,6 +233,8 @@ video-15:
   url: 'video-15'
   videos:
     - https://drive.google.com/file/d/1YxqQZ5PkPKNgGq9q2WtIEjuRpQqsKbXq/preview
+  audio:
+    - /assets/audio/bs604-15.mp3
 
 video-16:
   segment: 'week-04'
@@ -217,6 +246,8 @@ video-16:
   url: 'video-16'
   videos:
     - https://drive.google.com/file/d/1x2DMKLF3Wr98mf0GKVcmt_ZEtQH-vwTw/preview
+  audio:
+    - /assets/audio/bs604-16.mp3
 
 video-17:
   segment: 'week-04'
@@ -228,6 +259,8 @@ video-17:
   url: 'video-17'
   videos:
     - https://drive.google.com/file/d/133RyyD_a1efv82upqVT6lI_L_Alkscqd/preview
+  audio:
+    - /assets/audio/bs604-17.mp3
 
 video-18:
   segment: 'week-05'
@@ -239,6 +272,8 @@ video-18:
   url: 'video-18'
   videos:
     - https://drive.google.com/file/d/1SRdpHcxXlz8Kpioi_8gkXszBag_-r27j/preview
+  audio:
+    - /assets/audio/bs604-18.mp3
 
 video-19:
   segment: 'week-05'
@@ -250,6 +285,8 @@ video-19:
   url: 'video-19'
   videos:
     - https://drive.google.com/file/d/14UJkrO1LQkx0GPwC5dWxamO_vmMtpZIO/preview
+  audio:
+    - /assets/audio/bs604-19.mp3
 
 video-20:
   segment: 'week-05'
@@ -261,6 +298,8 @@ video-20:
   url: 'video-20'
   videos:
     - https://drive.google.com/file/d/1K7dscNuxLc2k0cP2Cn7lPtE6D-M3zdjS/preview
+  audio:
+    - /assets/audio/bs604-20.mp3
 
 video-21:
   segment: 'week-06'
@@ -272,6 +311,8 @@ video-21:
   url: 'video-21'
   videos:
     - https://drive.google.com/file/d/1QP20xlloyxR0R4TSz_3OTwxbt75JNikR/preview
+  audio:
+    - /assets/audio/bs604-21.mp3
 
 video-22:
   segment: 'week-06'
@@ -283,6 +324,8 @@ video-22:
   url: 'video-22'
   videos:
     - https://drive.google.com/file/d/1Af404brFYT6_3F7kHhkEBC29gIeMtCHA/preview
+  audio:
+    - /assets/audio/bs604-22.mp3
 
 quiz-01:
   segment: 'week-02'
