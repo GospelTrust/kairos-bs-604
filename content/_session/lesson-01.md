@@ -5,10 +5,10 @@
 
 - Jesus withdrew to Galilee to fulfill prophesy
 
-  - darkness -> light
-  - death -> dawned
+  - darkness → light
+  - death → dawned
 
-- Repent -> kingdom comes near near
+- Repent → kingdom comes near near
 
   Jesus Preached the kingdom of God
 

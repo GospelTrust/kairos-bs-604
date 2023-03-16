@@ -9,7 +9,7 @@ For quiz #2, focus on the following portions of your book by [Wenham/Walton]:
 - Read Chapter 4
   - skip p. 68-73
   - skip p. 80-83...
-  - Read carefully p. 85, especially what Dunn says
+  - Read carefully p. 85 (~173?), especially what Dunn says
 
 - Read Chapter 11 (all).
 
@@ -31,7 +31,7 @@ My article on the Jubilee Mission of Jesus in Luke is only necessary if you want
 - Roman until AD 70
 - Key ingredients for Jesus' context
 
-#### Persian period -> Jewish War
+#### Persian period → Jewish War
 
 - Sources
   - Old / New Testaments
@@ -256,7 +256,7 @@ AD 70 | Jerusalem finally overrun after siege and bitter resistance
 
 <hr class='section' />
 
-<sub>Chapter 4</sup>
+<sub>Chapter 4</sub>
 ### Where did the Gospels come from?
 
 - how scholars analyze the processes by which the Gospels were composed
@@ -270,5 +270,114 @@ AD 70 | Jerusalem finally overrun after siege and bitter resistance
 - Source criticism
   - Agreements - how they tell a story (same words, closeness, copy?)
   - Agreement in the sequence of the stories
+  - Differences of wording
+  - Differences of sequence
+
+- The "two source" hypothesis. Q (German Quelle, meaning "source") which Mark did not have access.
+
+  ![two-source]
+
+- Markan priority
+  1. Length - shortest 661 verses
+     - 601 parallel in Mathew and/or Luke
+     - 97% words found in Matthew
+     - 88% words found in Luke
+     - Mark stresses Jesus' teaching and activities, resurrection account
+     - Can't be abridgement of other gospels because of the greater details
+  2. Agreements in the sequence of stories
+     - Mark + Matthew against Luke
+     - Mark + Luke against Matthew
+     - Matthew + Luke never agree in order against Mark
+  3. Grammar & style
+     - Rougher, working in Greek as 2nd language
+     - Mt & Lk has smoother style
+     - Uses Aramaic words which others omit
+     - Uses slang for "bed" (Greek _krabatton_ 2:4), Mt & Lk uses refined terms (_klines_ Mt 9:2; _klinidion_ Lk 5:19)
+     - Makes more sense that Lk & Mt changes Mark rather than the other way around
+  4. "Harder" wordings
+     - Limits Jesus' power & influence
+     - 1:34 Jesus heals "many" whereas Mt 8:16 & Lk 4:40 "all" or "every one of them"
+     - 6:5f "could not" whereas Mt 13:58 "did not" because of unbelief suggests Jesus could but chose not to
+     - 10:14 "Indignant" with them (James & John) but Mt 20:20 has their mother asked, "cover" some of the disciples' failings?
+  5. Theology
+     - Matthew uses "Lord" more to heightened Christology
+
+- Q (_Quelle_ in German)
+
+  235 verses which Matthew & Luke share and Mark does not have
+
+  1. Agreements in wording
+
+     John the Baptist's preaching Mt 3:7-10 & Lk 3:7-9
+  2. Agreements in sequence
+  3. "Doublets"
+
+     Triplets those who have will receive more (Mt 13:12; Mk 4:25; Lk 8:18)
+
+     - The Beatitudes
+     - The Salt of the earth
+     - The Light of the world
+     - The Law and prophets
+     - On Reconciliation
+     - On Adultery and divorce
+     - On Retaliation
+     - On Love for enemies
+     - The Lord's prayer
+     - On treasure in heaven
+     - Good eyes
+     - On serving two masters
+     - On anxiety
+     - On judging others
+     - On answers to prayer
+     - The golden rule
+     - The two ways
+     - A tree and its fruit
+     - Obedience, not words only
+     - The two builders
+  4. Coherence
+
+     Q material forms a coherent body with quite a consistent theological perspective
+
+- Criticisms of the two source hypothesis
+  - Relationships are not straightforward, data doesn't fit neatly in the two source hypothesis
+  - Priority of Mark, omission of the substantial section (Mk 6:45-8:26) by Luke is surprising (giving closely following sequence)
+  - Matthew & Luke agree in wording against Mark (Mt 3:11f; Mk 1:7f; Lk 3:16-18) harder to explain, meaning Matthew & Luke independently changed Mark's phrase to exactly different phrase
+  - Mark Goodacre criticizes parallel between Q and Gospel of Thomas
+    - Q is better explained by Farrer-Goulder view that Mark writes first, Luke writes last, using both Mark & Matthew
+
+      - Mark → Matthew → Luke
+      - Mark → Luke
+
+    - Speculations that there might be multiple "editions" of Q because of inconsistent doublets (Lk 19:12-27 cf. Mt 25:14-30)
+    - Stories appear in both Mark & Q (overlap)
+      - John the Baptist
+      - Temptation of Jesus
+      - Jesus colluded with Satan
+      - Mustard seed
+      - Commissioning the disciples
+    - Exact wordings of these stories. Mark & Q agree verbatim in 50 verses. Harder to conclude that Q is an independent source (is it Mark?)
+
+- The Griesbach (or "two Gospels") hypothesis
+  - W.R Farmer → Matthew wrote first, then Luke used Matthew and Mark made a short version of the two longer Gospels (originated from J.J. Griesbach)
+
+    - Matthew → Luke → Mark
+    - Matthew → Mark
+
+  - Early testimony
+
+    Irenaeus, Eusebius & Augustine consider Matthew to be the first Gospel
+  - Matthew's Jewishness
+
+    Assumes washing customs because predominantly Jewish until became more Gentile
+  - Agreements in order and wording
+    - If Mt & Mk agree against Lk, Mk has followed Mt rather than Lk
+    - If Lk & Mk agree against Mt, Mk has followed Lk rather than Mt
+    - If Mt & Lk agree against Mk, Mk deviates from both of his sources
+  - Markan redundancies
+    - Over 200 places in Mark
+    - Incorporating both phrases
+  - The "minor agreements"
 
 <hr class='logo' />
+
+[two-source]: /assets/drawings/bs604-two-source.svg
