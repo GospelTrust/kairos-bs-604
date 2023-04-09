@@ -143,3 +143,5 @@
     2. Making careless, thoughtless, judgments on history, literature, etc.
     3. Making careful, thoughtful, judgments on history, literature, etc.
     4. Criticizing today’s world in light of the New Testament world.
+
+<hr class='logo' />
