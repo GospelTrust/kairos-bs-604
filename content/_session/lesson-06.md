@@ -47,4 +47,6 @@
 
    At this point, they acknowledge that Jesus opened his eyes! Can you give a contemporary example of such a contradiction in which people who do not believe Jesus, acknowledge Jesus at the same time?
 
+{% include session/youtube.html id="bC8mXTu6rYA" %}
+
 <hr class='logo' />

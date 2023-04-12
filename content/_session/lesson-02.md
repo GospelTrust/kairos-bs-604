@@ -84,4 +84,6 @@ Regarding the discussion questions I recently sent on Jesus’ theme of new and 
 
 These quotes are from Asian Women.
 
+{% include  session/youtube.html id="39RkX5_9Soo" %}
+
 <hr class='logo' />

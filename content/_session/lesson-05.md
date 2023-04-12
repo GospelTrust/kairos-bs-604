@@ -25,4 +25,6 @@
 
 6. List the various non-verbal manifestations of God’s authority–and their meanings–at Jesus’ crucifixion (Luke 23:38-49).
 
+{% include session/youtube.html id="jdrhP7chdHo" %}
+
 <hr class='logo' />

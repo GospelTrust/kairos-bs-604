@@ -29,4 +29,6 @@
 
 6. Discuss the possibility of Jesus having a specific economic strategy to change the economic system of his day and flow resources from rich to poor. Discuss some teachings, parables, or narratives that might support this claim. Then express why you think Jesus had a strategy or not.
 
+{% include  session/youtube.html id="9oPcgAr82UE" %}
+
 <hr class='logo' />

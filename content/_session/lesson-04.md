@@ -25,4 +25,6 @@
 
    If you were to give a seminar on stewardship and offerings based on these verses, what would be the focus of your seminar, in a few sentences?
 
+{% include session/youtube.html id="Lvnzz20I65A" %}
+
 <hr class='logo' />

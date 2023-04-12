@@ -132,6 +132,6 @@
 - Galilean Jew was not a Cynic and not Pharisee
 - Charismatic sage
 
-
+{% include  session/youtube.html id="ZxFK8f7GVH8" %}
 
 <hr class='logo' />
