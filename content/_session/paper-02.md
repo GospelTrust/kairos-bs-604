@@ -5,6 +5,27 @@
 ## An Introduction to the Parables of Jesus by Stein, Robert H
 
 1. Discuss the deficiencies of a parable defined as “an earthly story with a heavenly meaning.” Be sure to include what you find on page 16 and 20. Although Stein feels that an exact definition of a parable is not possible, for convenience’s sake, he chooses a simple definition. What is that simple definition? Discuss his reasons and give your opinion (p. 22).
+   - not English
+   - not Greek
+   - Aramaic
+   - _mashalim_ means _proverb_
+
+   - Old Testament
+     - byword, satire, taunt, word of derision
+     - riddles
+     - story or allegory
+
+   - New Testament
+     - proverb
+     - figurative saying
+     - metaphor (comparison between two _unlike_ things)
+     - simile (comparison between _like_ things)
+       > The simile also is a metaphor; for there is very little difference. When the poet says of Achilles, "he rushed on like a lion," it is a simile; if he says, "A lion, he rushed on," it is a metaphor; for because both are courageous, he transfers the sense and calls Achilles a lion. (Rhetoric 2, 20, 2ff.)
+
+     - similitude (simile expanded from comparison into a picture)
+     - parable / allegory (when a similitude expanded into a story)
+     - story parable - singular incident
+     - example parable - "Go and do likewise"
 
 2. After reading the entire chapter 2, answer the question in the first sentence of this chapter: Why did Jesus teach in parables?
 

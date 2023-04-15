@@ -33,7 +33,7 @@ Choose one scriptural passage in the section of Mark 1-5, 9-10, 12-13 or Luke 11
 
    Description | Literary Elements
    :--- | :---
-   Discover the Context (Why do you begin and end here? What comes before and after the passage?) <br/>_Do not base your decision on verses, chapters, or headings—none of these are in the original Greek text of the Bible!_ |
+   Discover the Context (Why do you begin and end here? What comes before and after the passage?)<br/>_Do not base your decision on verses, chapters, or headings—none of these are in the original Greek text of the Bible!_ |
    __Translations and Word Meanings__<br/>Consult several different translations of your passage (e.g. NRSV, NIV, RSV, NASB, ESV). Record any variant meanings/nuances and modify/ improve your interpretation based on the different nuances of the translations, _if they are significant_!<br/>Include any insights from commentaries on meanings of key words/phrases (commentaries will be consulted below in Historical Background) |
    ~~Synoptic Parallels or Intertextual References This is not required. But if helpful, list synoptic parallels only if the version differs in other gospels and explain why you think so~~ | Omit this unless you feel it is necessary to your interpretation.
    __Character(s)__<br/>List all the characters and their roles in the passage. |
@@ -136,5 +136,206 @@ Chicago Manual of Style. To find style requirements, please consult
     - thereafter: Sample — "You must remain completely loyal to the LORD your God" (Luke 18:3).
 
     - Do not footnote your Bible verse (see #13 above for parenthetical Bible verses), but footnote your research from commentaries, Bible dictionaries, etc.
+
+
+<hr class="section" />
+
+## Luke 12:13-21 (ESV)
+
+> Someone in the crowd said to him, “Teacher, tell my brother to divide the inheritance with me.” But he said to him, “Man, who made me a judge or arbitrator over you?” And he said to them, “Take care, and be on your guard against all covetousness, for one’s life does not consist in the abundance of his possessions.” And he told them a parable, saying, “The land of a rich man produced plentifully, and he thought to himself, ‘What shall I do, for I have nowhere to store my crops?’ And he said, ‘I will do this: I will tear down my barns and build larger ones, and there I will store all my grain and my goods. And I will say to my soul, “Soul, you have ample goods laid up for many years; relax, eat, drink, be merry.”’ But God said to him, ‘Fool! This night your soul is required of you, and the things you have prepared, whose will they be?’ So is the one who lays up treasure for himself and is not rich toward God.”
+
+----
+
+### Discover the Context
+
+- Why do you begin and end here?
+
+  Jesus was asked to arbitrate between two brothers about question of inheritance. Jesus stopped teaching the crowd and directed his answer to the inquirer.
+
+  At the end of the parable, Jesus no longer in conversation with the man asking the question but turned to his disciples and continued to admonished them to pursue the kingdom of God.
+
+- What comes before and after the passage?
+
+  Jesus was teaching the crowd about not fearing man but to fear God instead and relying on the Holy Spirit for guidance. After the parable, he turned to teach his disciples to trust in the Father and set their focus on the Kingdom instead of worrying about life.
+
+----
+
+### Translations and Word Meanings
+
+Consult several different translations of your passage (e.g. NRSV, NIV, RSV, NASB, ESV).
+
+v | NIV | ESV | NASB | CSV
+--- | --- | --- | --- | ---
+13 | Someone in the crowd said to him, “Teacher, tell my brother to divide the inheritance with me.” | Someone in the crowd said to him, “Teacher, tell my brother to divide the inheritance with me.” | Someone in the crowd said to Him, "Teacher, tell my brother to divide the family inheritance with me." | Someone from the crowd said to him, "Teacher, tell my brother to divide the inheritance with me."
+14 | Jesus replied, “Man, who appointed me a judge or an arbiter between you?” | But he said to him, “Man, who made me a judge or arbitrator over you?” | But He said to him, "Man, who appointed Me a judge or arbitrator over you?" | "Friend," he said to him, "who appointed me a judge or arbitrator over you?"
+15 | Then he said to them, “Watch out! Be on your guard against _all kinds of greed_; life does not consist in an abundance of possessions.” | And he said to them, “Take care, and be on your guard against _all covetousness_, for one’s life does not consist in the abundance of his possessions.” | Then He said to them, "Beware, and be on your guard against _every form of greed_; for not even when one has an abundance does his life consist of his possessions." | He then told them, "Watch out and be on guard against _all greed_, because one's life is not in the abundance of his possessions."
+16 | And he told them this parable: “The ground of a certain rich man yielded an abundant harvest. | And he told them a parable, saying, “The land of a rich man produced plentifully, | And He told them a parable, saying, "The land of a rich man was very productive. | Then he told them a parable: "A rich man's land was very productive.
+17 | He thought to himself, ‘What shall I do? I have no place to store my crops.’ | and he thought to himself, ‘What shall I do, for I have nowhere to store my crops?’ | "And he began reasoning to himself, saying, 'What shall I do, since I have no place to store my crops?' | He thought to himself, 'What should I do, since I don't have anywhere to store my crops?
+18 | “Then he said, ‘This is what I’ll do. I will tear down my barns and build bigger ones, and there I will store my _surplus grain_. | And he said, ‘I will do this: I will tear down my barns and build larger ones, and there I will store all my grain and my goods. | "Then he said, 'This is what I will do: I will tear down my barns and build larger ones, and there I will store all my grain and my goods. | I will do this,' he said. 'I'll tear down my barns and build bigger ones and store all my grain and my goods there.
+19 | And I’ll say to __myself__, “You have plenty of grain laid up for many years. Take life easy; eat, drink and be merry.” ’ | And I will say to __my soul__, “Soul, you have ample goods laid up for many years; relax, eat, drink, be merry.”’ | And I will say to __my soul__, "Soul, you have many goods laid up for many years to come; take your ease, eat, drink and be merry."' | Then I'll say to __myself__, "You have many goods stored up for many years. Take it easy; eat, drink, and _enjoy yourself_."'
+20 | “But God said to him, ‘You fool! This very night your __life__ will be demanded from you. Then who will get what you have prepared for yourself?’ | But God said to him, ‘Fool! This night your __soul__ is required of you, and the things you have prepared, whose will they be?’ | "But God said to him, 'You fool! This very night your __soul__ is required of you; and now who will own what you have prepared?' | "But God said to him, 'You fool! This very night your __life__ is demanded of you. And the things you have prepared--whose will they be?'
+21 | “This is how it will be with whoever stores up things for themselves but is not rich toward God.” | So is the one who lays up treasure for himself and is not rich toward God.” | "So is the man who stores up treasure for himself, and is not rich toward God." | "That's how it is with the one who stores up treasure for himself and is not rich toward God."
+
+Record any variant meanings/nuances and modify/improve your interpretation based on the different nuances of the translations, _if they are significant_!
+
+- No significant differences are found between translations. They tend to agree
+
+Include any insights from commentaries on meanings of key words/phrases (commentaries will be consulted below in Historical Background)
+
+----
+
+### Characters
+
+List all the characters and their roles in the passage.
+
+1. The inquirer
+
+   Person asking the question demanding fairness.
+
+2. The "brother" who is absent/silent
+
+   The accused selfish sibling
+
+3. The Lord
+
+   The "arbitrator & judge" who refuses to mediate instead teaches him through a story
+
+4. The fictitious rich man
+
+   The hoarder of wealth and loves to possess whose soul will be repossessed by God
+
+5. His "soul"
+
+   His _sole_ companion is "himself"
+
+6. God
+
+   The Creator who owns everything
+
+7. The unnamed heir
+
+   The stranger who is likely to enjoy the labor of the rich man who works hard to possess but have no life to enjoy his possession
+
+----
+
+### Audience
+
+- Can you tell from the text who the audience is?
+- That is, who is being addressed in their writing?
+
+The inquirer, the crowd, and the disciples.
+
+----
+
+### Observe Grammar and Structure/Ask Questions
+
+- Comparison &mdash; rich in possession vs. rich in God
+- Contrast &mdash; possessions vs. possessor(s)
+- Parallelism &mdash; greed requires unlimited capacity
+- Series &mdash; bigger, larger, endless
+- Simile &mdash;
+- Metaphor &mdash;
+- Cause/effect &mdash; greed / loosing one's life
+- Statement/response &mdash; Seek not possessions / seek riches in God
+- Irony &mdash; The possessor's life was repossessed
+
+Ask who, what, when, why where, how, so? See Wenham/Walton (p. 105).
+
+----
+
+### Speaker
+
+- Is there a speech or dialogue in the text? &mdash; Yes
+- If so, who is making the speech or dialogue?
+  - The rich man talks to himself
+  - God narrates through Jesus' parable
+
+----
+
+### Genre
+
+What is the genre or literary category? Some sample genres are:
+
+1. speech
+2. narrative
+3. ~~hymn~~
+4. parable
+5. dialogue
+6. ~~sermon~~
+7. ~~poetry~~
+8. ~~prophecy~~
+9. ~~prayer~~
+10. ~~command~~
+
+----
+
+### Setting
+
+- Where is the passage set?
+- What is the geographic location (i.e., on a mountain, in a plain, in a valley, near water)?
+- Is it in a city or a village?
+- A farm or in the wilderness?
+- On a road?
+- If so, where are they traveling from/to?
+
+----
+
+### Time
+If relevant—do not make up answer if the text does not indicate anything!
+
+- During what season of the year is the text set?
+- What time of day? Is a holy day involved?
+
+----
+
+### Key Word(s), Phrase(s), or Theme(s)__
+
+List any key words, phrases, or themes. Key words, phrases, or themes are words, phrases, or themes that
+
+1. are repeated; or
+2. have significant meaning.
+
+----
+
+### Historical Background
+
+- Are there references to historical background that will be necessary to understand the text?
+- Are there workers, rulers, tribal leaders, kings, or queens mentioned?
+- Are there references to any ethnic groups?
+- Any events?
+- Religious leaders/issues?
+
+_Add insights from commentaries and research on historical background. Modify your interpretation appropriately._
+
+----
+
+### Socio-cultural Elements
+
+- What social conventions can you identify?
+- Does eating, drinking, dining, traveling come into play?
+- Who has/doesn't have power?
+- Who is "in"?
+- Who is "out"?
+- How is gender or kinship structured (i.e., who is exercising power and agency and can you tell why)?
+- Is there evidence of patronage or benefaction?
+- Is honor or shame a factor?
+
+_Add insights from commentaries/research._
+
+Summarize your Interpretation of the Passage in a Sentence or Two (thesis statement)
+
+----
+
+### Interpret the Content of the Passage after your research and reading of commentaries
+
+What does it mean; don’t “skip over” puzzling things that you don’t understand--do your best to deal with difficult verses. This should be the main section of your paper.
+
+Now try to answer unanswered questions and understand what is puzzling with the help of resources
+
+----
+
+### Application
+
+- Does the passage state or imply how it should be applied?
 
 <hr class='logo' />
