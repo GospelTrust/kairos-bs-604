@@ -55,6 +55,28 @@ Choose one scriptural passage in the section of Mark 1-5, 9-10, 12-13 or Luke 11
       2. Students who have carefully followed the above chart have tended to write the best quality papers and students who do not carefully follow it tend to write poor quality papers.
       3. Do not leave the book of Mark or Luke and jump around to other passages in the Bible.
 
+
+
+#### Fact finding questions
+Ask who, what, when, why where, how, so? See Wenham/Walton p. 105 (Kindle 221).
+
+<dl>
+  <dt>Who</dt>
+  <dd>are the people involved, what kind of relationship do they have? Is it friendly, antagonistic, open, closed, etc.?</dd>
+  <dt>Where</dt>
+  <dd>are they? What's the atmosphere of this setting?</dd>
+  <dt>When</dt>
+  <dd>does the action happen? What caused it to happen at this specific time? Is there any particular symbolism of the time?</dd>
+  <dt>What</dt>
+  <dd>is the central event or key theme? Is it a problem, an event influencing others, a conflict, a crisis, etc.?</dd>
+  <dt>How</dt>
+  <dd>does the  writer seek to communicate the story? How are the events described? Do previous events lead up to this story, or do subsequent events develop from it? Do words used reveal motives, feelings, ideas, etc.?</dd>
+  <dt>Why</dt>
+  <dd>do the events of the story happen? Are the reasons stated, explicitly or implicitly? Does the writer hint at the reasons by the links made with other stories?</dd>
+  <dt>So?</dt>
+  <dd>What results follow from this story? Are they expected or surprising within the overall narrative? What results would follow for the reader who accepts or rejects this story?</dd>
+</dl>
+
 <hr class='section' />
 
 <sub>Part 2</sub>
@@ -164,17 +186,17 @@ Chicago Manual of Style. To find style requirements, please consult
 
 Consult several different translations of your passage (e.g. NRSV, NIV, RSV, NASB, ESV).
 
-v | NIV | ESV | NASB | CSV
---- | --- | --- | --- | ---
-13 | Someone in the crowd said to him, “Teacher, tell my brother to divide the inheritance with me.” | Someone in the crowd said to him, “Teacher, tell my brother to divide the inheritance with me.” | Someone in the crowd said to Him, "Teacher, tell my brother to divide the family inheritance with me." | Someone from the crowd said to him, "Teacher, tell my brother to divide the inheritance with me."
-14 | Jesus replied, “Man, who appointed me a judge or an arbiter between you?” | But he said to him, “Man, who made me a judge or arbitrator over you?” | But He said to him, "Man, who appointed Me a judge or arbitrator over you?" | "Friend," he said to him, "who appointed me a judge or arbitrator over you?"
-15 | Then he said to them, “Watch out! Be on your guard against _all kinds of greed_; life does not consist in an abundance of possessions.” | And he said to them, “Take care, and be on your guard against _all covetousness_, for one’s life does not consist in the abundance of his possessions.” | Then He said to them, "Beware, and be on your guard against _every form of greed_; for not even when one has an abundance does his life consist of his possessions." | He then told them, "Watch out and be on guard against _all greed_, because one's life is not in the abundance of his possessions."
-16 | And he told them this parable: “The ground of a certain rich man yielded an abundant harvest. | And he told them a parable, saying, “The land of a rich man produced plentifully, | And He told them a parable, saying, "The land of a rich man was very productive. | Then he told them a parable: "A rich man's land was very productive.
-17 | He thought to himself, ‘What shall I do? I have no place to store my crops.’ | and he thought to himself, ‘What shall I do, for I have nowhere to store my crops?’ | "And he began reasoning to himself, saying, 'What shall I do, since I have no place to store my crops?' | He thought to himself, 'What should I do, since I don't have anywhere to store my crops?
-18 | “Then he said, ‘This is what I’ll do. I will tear down my barns and build bigger ones, and there I will store my _surplus grain_. | And he said, ‘I will do this: I will tear down my barns and build larger ones, and there I will store all my grain and my goods. | "Then he said, 'This is what I will do: I will tear down my barns and build larger ones, and there I will store all my grain and my goods. | I will do this,' he said. 'I'll tear down my barns and build bigger ones and store all my grain and my goods there.
-19 | And I’ll say to __myself__, “You have plenty of grain laid up for many years. Take life easy; eat, drink and be merry.” ’ | And I will say to __my soul__, “Soul, you have ample goods laid up for many years; relax, eat, drink, be merry.”’ | And I will say to __my soul__, "Soul, you have many goods laid up for many years to come; take your ease, eat, drink and be merry."' | Then I'll say to __myself__, "You have many goods stored up for many years. Take it easy; eat, drink, and _enjoy yourself_."'
-20 | “But God said to him, ‘You fool! This very night your __life__ will be demanded from you. Then who will get what you have prepared for yourself?’ | But God said to him, ‘Fool! This night your __soul__ is required of you, and the things you have prepared, whose will they be?’ | "But God said to him, 'You fool! This very night your __soul__ is required of you; and now who will own what you have prepared?' | "But God said to him, 'You fool! This very night your __life__ is demanded of you. And the things you have prepared--whose will they be?'
-21 | “This is how it will be with whoever stores up things for themselves but is not rich toward God.” | So is the one who lays up treasure for himself and is not rich toward God.” | "So is the man who stores up treasure for himself, and is not rich toward God." | "That's how it is with the one who stores up treasure for himself and is not rich toward God."
+&bull; | NIV | ESV | NASB
+--- | --- | --- | ---
+13 | Someone in the crowd said to him, “Teacher, tell my brother to divide the inheritance with me.” | Someone in the crowd said to him, “Teacher, tell my brother to divide the inheritance with me.” | Someone in the crowd said to Him, "Teacher, tell my brother to divide the family inheritance with me."
+14 | Jesus replied, “Man, who appointed me a judge or an arbiter between you?” | But he said to him, “Man, who made me a judge or arbitrator over you?” | But He said to him, "Man, who appointed Me a judge or arbitrator over you?"
+15 | Then he said to them, “Watch out! Be on your guard against _all kinds of greed_; life does not consist in an abundance of possessions.” | And he said to them, “Take care, and be on your guard against _all covetousness_, for one’s life does not consist in the abundance of his possessions.” | Then He said to them, "Beware, and be on your guard against _every form of greed_; for not even when one has an abundance does his life consist of his possessions."
+16 | And he told them this parable: “The ground of a certain rich man yielded an abundant harvest. | And he told them a parable, saying, “The land of a rich man produced plentifully, | And He told them a parable, saying, "The land of a rich man was very productive.
+17 | He thought to himself, ‘What shall I do? I have no place to store my crops.’ | and he thought to himself, ‘What shall I do, for I have nowhere to store my crops?’ | "And he began reasoning to himself, saying, 'What shall I do, since I have no place to store my crops?'
+18 | “Then he said, ‘This is what I’ll do. I will tear down my barns and build bigger ones, and there I will store my _surplus grain_. | And he said, ‘I will do this: I will tear down my barns and build larger ones, and there I will store all my grain and my goods. | "Then he said, 'This is what I will do: I will tear down my barns and build larger ones, and there I will store all my grain and my goods.
+19 | And I’ll say to __myself__, “You have plenty of grain laid up for many years. Take life easy; eat, drink and be merry.” ’ | And I will say to __my soul__, “Soul, you have ample goods laid up for many years; relax, eat, drink, be merry.”’ | And I will say to __my soul__, "Soul, you have many goods laid up for many years to come; take your ease, eat, drink and be merry."'
+20 | “But God said to him, ‘You fool! This very night your __life__ will be demanded from you. Then who will get what you have prepared for yourself?’ | But God said to him, ‘Fool! This night your __soul__ is required of you, and the things you have prepared, whose will they be?’ | "But God said to him, 'You fool! This very night your __soul__ is required of you; and now who will own what you have prepared?'
+21 | “This is how it will be with whoever stores up things for themselves but is not rich toward God.” | So is the one who lays up treasure for himself and is not rich toward God.” | "So is the man who stores up treasure for himself, and is not rich toward God."
 
 Record any variant meanings/nuances and modify/improve your interpretation based on the different nuances of the translations, _if they are significant_!
 
@@ -190,15 +212,15 @@ List all the characters and their roles in the passage.
 
 1. The inquirer
 
-   Person asking the question demanding fairness.
+   Petitioner demands Jesus to settle a dispute about inheritance
 
 2. The "brother" who is absent/silent
 
-   The accused selfish sibling
+   The accused selfish/unjust sibling
 
 3. The Lord
 
-   The "arbitrator & judge" who refuses to mediate instead teaches him through a story
+   The "arbitrator & judge" who refuses to mediate instead teaches him through a parable
 
 4. The fictitious rich man
 
@@ -223,7 +245,9 @@ List all the characters and their roles in the passage.
 - Can you tell from the text who the audience is?
 - That is, who is being addressed in their writing?
 
-The inquirer, the crowd, and the disciples.
+  - The petitioner
+  - The crowd
+  - The disciples
 
 ----
 
@@ -239,7 +263,69 @@ The inquirer, the crowd, and the disciples.
 - Statement/response &mdash; Seek not possessions / seek riches in God
 - Irony &mdash; The possessor's life was repossessed
 
-Ask who, what, when, why where, how, so? See Wenham/Walton (p. 105).
+Ask who, what, when, why where, how, so? See Wenham/Walton p. 105 (Kindle 221).
+
+- Who
+  - are the people involved, what kind of relationship do they have?
+    > Jesus, the petitioner, the disciples, to the larger extent the crowd
+  - Is it friendly, antagonistic, open, closed, etc.?
+    > It is unfriendly, the appellant was upset at a sibling, Jesus in response was distant, cold, abrupt, and short. He calls the supplicant "Man"
+
+- Where
+  - are they?
+    > They are in Galilee, outdoors
+  - What's the atmosphere of this setting?
+    > Crowded, lively, interruptive. Jesus does most of the teaching
+
+- When
+  - does the action happen?
+    > In the middle of the day
+  - What caused it to happen at this specific time?
+    > Jesus was interrupted in the middle of his preaching
+  - Is there any particular symbolism of the time?
+    > None
+
+- What
+  - is the central event or key theme?
+    > Jesus addressing the man's request for inheritance by exposing the dire consequences of greed and possessions
+  - Is it a problem, an event influencing others, a conflict, a crisis, etc.?
+    > Greed and the pursuit of possessions is a problem that causes anxieties and fear
+
+- How
+  - does the  writer seek to communicate the story?
+    > Luke contrasts between worldly possessions and heavenly riches
+  - How are the events described?
+    > Luke masterfully insert the interruption between Jesus' teaching on anxiety, fears, worries to convey faith in God is eternal
+  - Do previous events lead up to this story, or do subsequent events develop from it?
+    > Jesus taught his disciples about the futility of trusting in riches
+  - Do words used reveal motives, feelings, ideas, etc.?
+    - What shall I do?
+    - I have nowhere
+    - My crops
+    - I will do this
+    - I will tear down
+    - My barns
+    - I will store
+    - My grain
+    - My goods
+    - I will say
+    - My soul
+    - You have (but addressing himself)
+
+- Why
+  - do the events of the story happen?
+    > Jesus was interrupted and took the opportunity to teach about greed
+  - Are the reasons stated, explicitly or implicitly?
+    > Explicit, Jesus went straight to the heart of greed
+  - Does the writer hint at the reasons by the links made with other stories?
+    > Yes, this story fits in the context of fears and anxieties contrast with faith and hope in God
+
+- So?
+  - What results follow from this story?
+    > The exhortation to trust in God's providence
+  - Are they expected or surprising within the overall narrative?
+  - What results would follow for the reader who accepts or rejects this story?
+    > Loosing one's soul in pursuit of worldly possessions
 
 ----
 
@@ -256,14 +342,14 @@ Ask who, what, when, why where, how, so? See Wenham/Walton (p. 105).
 
 What is the genre or literary category? Some sample genres are:
 
-1. speech
-2. narrative
+1. speech &mdash; Petitioner to the Lord & The rich man to his soul
+2. narrative &mdash;
 3. ~~hymn~~
-4. parable
-5. dialogue
+4. parable &mdash; The Rich Fool
+5. dialogue &mdash; indignant response from the Lord to the petitioner
 6. ~~sermon~~
 7. ~~poetry~~
-8. ~~prophecy~~
+8. prophecy &mdash; greed leads to dispossession
 9. ~~prayer~~
 10. ~~command~~
 
@@ -277,6 +363,8 @@ What is the genre or literary category? Some sample genres are:
 - A farm or in the wilderness?
 - On a road?
 - If so, where are they traveling from/to?
+
+See above.
 
 ----
 
@@ -295,15 +383,22 @@ List any key words, phrases, or themes. Key words, phrases, or themes are words,
 1. are repeated; or
 2. have significant meaning.
 
+The rich man in the parable repeats the first person pronouns 11 times.
+
 ----
 
 ### Historical Background
 
 - Are there references to historical background that will be necessary to understand the text?
+  > Understanding Jewish custom of inheritance allows the reader to understand why this man is requesting the Lord to be an arbiter between him and his brother
 - Are there workers, rulers, tribal leaders, kings, or queens mentioned?
+  > Siblings
 - Are there references to any ethnic groups?
+  > No
 - Any events?
+  > No
 - Religious leaders/issues?
+  > No
 
 _Add insights from commentaries and research on historical background. Modify your interpretation appropriately._
 
@@ -312,17 +407,36 @@ _Add insights from commentaries and research on historical background. Modify yo
 ### Socio-cultural Elements
 
 - What social conventions can you identify?
+  > Jewish custom of inheritance
 - Does eating, drinking, dining, traveling come into play?
+  > No
 - Who has/doesn't have power?
+  > The "simple" inheritor as opposed to the first-born who has a double portion
 - Who is "in"?
+  > Those who is rich toward god
 - Who is "out"?
+  > Those who is rich in their wealth and possessions
 - How is gender or kinship structured (i.e., who is exercising power and agency and can you tell why)?
+  > The elder brother has more power
 - Is there evidence of patronage or benefaction?
+  > Yes
 - Is honor or shame a factor?
+  > The younger sibling felt inferior and at a disadvantage compared to the elder brother
 
 _Add insights from commentaries/research._
 
+- By replacing his barns, he avoids using agricultural land for storage
+  - Maximizing his income
+  - Gets better pricing for his crops
+- St. Augustine
+  > "The redemption of a man's soul is his riches." This silly fool of a man did not have that kind of riches. Obviously he was not  redeeming his soul by giving relief to the poor. He was hoarding perishable crops. I repeat, he was hording perishable crops, while he was on the point of perishing because he had handed out nothing to the Lord before whom he was due to appear. How will he know where to look, when at that trial he starts hearing the words, "I was hungry and you did not give me to eat"? He was planning to fill his soul with excessive and unnecessary feasting and was proudly disregarding all those empty bellies of the poor. He did not realize that the bellies of the poor were much safer storerooms than his barns. What he was towing away in those barns was perhaps even then being stolen away by thieves. But if he stowed it all in the bellies of the poor, it would of course be digested on earth, but in heaven it would be kept all for the more safely. The redemption of a man's soul is his riches. (Sermon 36.9)
+  > (Arthur A. Just, Luke, InterVarsity Press, 2003, ISBN 0-8308-1488-4, p. 208.)
+- Cornelius a Lapide
+  > Ecclesiastics and spiritual persons ought not to meddle with secular things, but to empty themselves in divine ones, as St. Paul says, 2 Tim 2:4, "No soldier on service entangleth himself in the affairs of this life."
+
 Summarize your Interpretation of the Passage in a Sentence or Two (thesis statement)
+
+> Eternal life does not consist of the accumulation of worldly possessions that are stored in growing but temporal accounts until our appearance before the Judge. True eternal life invests earthly treasures in service to Lord in meeting the need of the poor; the investment's return will not only inestimable but also eternal.
 
 ----
 
@@ -337,5 +451,12 @@ Now try to answer unanswered questions and understand what is puzzling with the 
 ### Application
 
 - Does the passage state or imply how it should be applied?
+
+  - Examine our pursuit of worldly riches, are we building our earthly kingdom?
+  - Am I rich in God?
+  - Have I used what God has given to me in service to the poor?
+  - Am I seeking the kingdom of God and His righteousness _first_?
+
+
 
 <hr class='logo' />
