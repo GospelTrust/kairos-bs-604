@@ -1,11 +1,96 @@
 ---
 ---
 
+<details>
+  <summary>Paper</summary>
+  <h3>UNPOSSESSED</h3>
+  <blockquote>
+    The true storehouse for our surplus is benevolence.
+    <br/>— William M. Taylor (The Parables of Our Saviour, p. 269)
+  </blockquote>
+
+  <p>
+    The Lord’s evocative parable on greed and its destructive effect on the soul of its owners is a blunt warning to his hearers; Jesus’ stern message leaves no room for misinterpretation, “Take care, and be on your guard against all covetousness, for one’s life does not consist in the abundance of his possessions” (Luke 12:15, ESV). In pursuit of wealth, greed consumes its victims with an unquenchable thirst, twisting the mind inward like the Gollum, unable to break free of his lust for the ring he hated (Tolkien, 1954). Luke breaks up the Lord’s didactic discourses on fear and disquietude by using a petition to settle an inheritance dispute showing the general sentiment of anxiety within the public sphere. The parable only addresses the mortal consequences of covetousness, while Luke leaves the answer on how to be “rich toward God” (v. 21) in the later discourses. Life’s uncertainty fuels anxieties that lead us to seek security in accumulating wealth; as our worldly treasure grows, we become subservient to our possessions until we are utterly consumed — unless we seek a different kind of treasure in another realm (verses 31ff.).
+  </p>
+
+  <p>
+    Luke is the only gospel that tells the story of a man entirely absorbed by the wealth that distorted his perception and understanding of Jesus and his teachings. The Lord coldly rejects the man’s petition to arbitrate on his behalf against the greedy brother. This story illustrates a cross-section of the multiplicity of sentiments representing the multitudes. The broad social stratum in the audience experiences fear and anxiety differently; the poor and rich both fear that they do not have enough yet for entirely different motivations. The poor worry they will go hungry, while the rich fear they will miss out on having more. The man in the story from the latter group worries that he will miss out on his inheritance; his request for adjudication to protect his financial interest reveals his selfish worldly preoccupations. The Lord’s admonition is still fresh in the preceding verses, “Do not be anxious about how you should defend yourself or what you should say” (v. 11); however, this discontented man is so fixated on his entitlements, his flesh is present, but his heart and mind are enslaved to the pursuit of wealth — he mistook the Savior for a small claim court judge.
+  </p>
+
+  <p>
+    The gospel of Luke accentuates the disparity between the social and economic classes of the period. The beginning of the passage, where “many thousands of the people gathered together” (v. 1), consists of varying social and economic strata. Instead of directly addressing the man bearing a grudge, Jesus tells the crowd a parable about a wealthy man and his ephemeral acquisitive dream. The interruption by the man with an inheritance dispute serves as a segway for the Lord to teach the people about the emptiness of greed.
+  </p>
+
+  <blockquote>
+    “Man, who made me a judge or arbitrator over you?”
+    <br/>— Verse 14
+  </blockquote>
+
+  <p>
+    Luke recorded the only instance when the Lord referred to a petitioner in such cold and distant language to reveal how disconnected this man was from Jesus’ teaching of the upside-down kingdom.
+  </p>
+
+  <p>
+   	The dark parable ends deathly for the rich man blessed by God (v. 16). The Gospel of Luke contrasts the making of the poor rich in God against the rich’s private obsession with wealth, depriving them of hope, relationships, and life. This parable centered around a man’s soliloquy revealing his inner avaricious motives. Upon seeing his land yield plentifully, the wealthy man thinks about capitalizing on this providential endowment. Greed overtakes his heart as a “man with an evil eye hastens after wealth and does not know that poverty will come upon him” (Prov. 28:22). The Lord reveals the man hidden thoughts, starting with a question he asks himself:
+  </p>
+
+  <blockquote>
+    “What shall I do, for I have nowhere to store my crops?”
+    <br/>— Verse 17
+  </blockquote>
+
+  <p>
+    The increase in crop yield also increases his appetite for wealth as he disregards his existing storage facilities. As a recipient of God’s providential blessings, the rich man, in his abundance, must remember that he is a servant of God and is held accountable for what he was delegated: “Everyone to whom much was given, of him much will be required, and from him to whom they entrusted much, they will demand the more” (v. 48). The covetous man is consumed with capacity planning to increase the size of his holding while the poor and everyone else besides himself is ignored, or worse, taken advantage of. The Lord exposes the rich’s egocentrism in the short parable. The man, so full of himself, uses the first-person pronouns eleven times: “What shall I do,” “I have nowhere,” “my crops,” “I will do,” “I will tear down,” “my barns,” “I will store,” “my grain,” “my goods,” “I will say,” and “my soul” (verses 17-19). The only second-person pronoun used is “you” in reference to his soul; his solipsist world turns inward toward himself and his possessions — the rich fool ends up alone. The parable illustrates the paradoxical pursuit of the rich to gain possessions yet has no friends to share them, “The things you have prepared, whose will they be?” Who will give his eulogy? What will they say about this rich man? According to Luke, God has pronounced his judgment, the rich in their pursuit of greed are fools, and “so is the one who lays up treasure for himself and not rich toward God” (verses 20-21).
+  </p>
+
+  <p>
+    The parable ends without explaining the meaning of being “rich toward God” (Greek: “πλουτῶν εἰς θεὸν”). The New American Standard Bible offers an alternate translation of the Greek word εἰς as “in relation to” instead of “toward.” This rendition of the word gives a clearer understanding of what it truly means to be rich. The contrast between riches as having an abundance of possessions versus having a relationship with God delineates the temporal and eternal. Luke encapsulates this dichotomy vividly two chapters after, in the parable of the prodigal son; after he squandered all his wealth, his so-called friends abandoned him, and all that remains is the son’s relationship with his father (Luke 15:17). The Lord begins the parable with the warning, “One’s life does not consist in the abundance of his possessions,” (v. 15) not to denounce having material things but to be aware of the deadly effect covetousness has on the soul of its victim. The man in the parable assumes God’s blessings as his to possess rather than seeing himself as God’s “faithful and wise manager” (v. 42). The rich fool dreams of tearing down his barns to build larger ones so he can make more profit during the off seasons and hopefully retire in comfort (v. 19). St. Augustine remarks on the fool’s need to build larger barns puts in perspective that God cares about people, not profits:
+  </p>
+
+  <blockquote>
+    Thou hast barns — the bosoms of the needy, the houses of the widows, the mouths of orphans and of infants.
+    <br/>— St. Augustine (Taylor, p. 268)
+  </blockquote>
+
+  <p>
+    After the parable, the Lord turns to his disciples to plainly instruct them about their anxiety and their desires to possess. Jesus tells them clearly, “The Father knows that you need them,” but they need to trust God’s promise that he will give them the kingdom (vv. 30ff). Luke’s gospel brings the immediacy of the kingdom into the forefront of his audience by challenging them to have faith:
+  </p>
+
+  <blockquote>
+    But if God so clothes the grass, which is alive in the field today, and tomorrow is thrown into the oven, how much more will he clothe you, O you of little faith!
+    <br/>—Verse 28
+  </blockquote>
+
+  <p>
+    Life’s uncertainty brings out anxiety in all of us. The need to control our destiny by securing our future with bigger storehouses is alluring but has deadly consequences. The Lord’s remark, “For you always have the poor with you” (Mat 26:11; Mark 14:7), reminds us that the Church is responsible for the widow, orphans, disenfranchised, and destitute. Jesus challenges his disciples to “sell your possessions, and give to the needy” (v. 33). Our earthly possessions are for the poor in the kingdom that is here and now; our heavenly treasures will be in God’s kingdom that is to come. The Church is entrusted with the promise that the Father has “blessed us in Christ with every spiritual blessing in the heavenly places” (Eph 1:3); the Lord sets the wise to oversee the heavenly treasures to give to the poor “their portion of food at the proper time” (v. 42). While we await the Lord’s return if the Church tends to the “least of these” then we have done good unto Jesus.
+  </p>
+
+  <h3>Application</h3>
+  <p>
+    The world’s message is: “You don’t have enough! You must have more! Your family and future depend on you having this!” The inescapable appeal of securing your future with more and better things is sidelining Luke’s central message that Jesus was sent to preach the gospel to the poor. When we turn inward toward ourselves to find safety and security, our desires will never be satisfied because greed is an abyss of unrelenting struggles; the side effect of the Church’s neglecting the poor has spiritual consequences:
+  </p>
+
+  <blockquote>
+    Then they also will answer, saying, ‘Lord, when did we see you hungry or thirsty or a stranger or naked or sick or in prison, and did not minister to you?’ Then he will answer them, saying, ‘Truly, I say to you, as you did not do it to one of the least of these, you did not do it to me.’ And these will go away into eternal punishment, but the righteous into eternal life.”
+    <br/>—Matthew 25:44-46
+  </blockquote>
+
+  <p>
+    Ministry to the poor is not optional but central to the Church’s message, and it is the responsibility of every Christian. James puts it bluntly that our religion is defiled and polluted unless we care for “orphans and widows in their affliction” (James 1:27). The Church needs to look outward toward the kingdom, not inwardly, to preserve its resources. Living at the base level of our necessity requires God’s grace and discipline. When the Church becomes a faithful servant, entrusted to distribute (and not hoard) God’s providence to the poor, then it can begin to shine. Let not the churches build bigger barns, but bring God’s treasures out of the storehouses and distribute them to the needy.
+  </p>
+
+  <h3>BIBLIOGRAPHY</h3>
+  - Taylor, W. M. (1889). The Parables of Our Saviour. NY: A.C Armstrong & Son.
+  - Tolkien, J. (1954). The Fellowship of the Ring. Boston: Houghton Mifflin.
+</details>
+
+<hr class="section"/>
+
 ## Exegetical Assignment
 
 Research and Application
 
-<sub>Part 2</sub>
+<sub>Part 1</sub>
 ### Research and Interpretation
 
 Choose one scriptural passage in the section of Mark 1-5, 9-10, 12-13 or Luke 11–19. Typically, the passage is 10-15 verses, though it might be slightly shorter or longer:
