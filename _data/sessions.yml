@@ -371,11 +371,11 @@ paper-01:
   sequence: 1
   type: 'Paper'
   url: 'paper-01'
-  due: 2023-04-08
+  due: 2023-04-24
   points: 100
   images:
-    src: https://cdn.midjourney.com/b9adc25f-760c-4853-a070-5a3325d28253/0_1.png
-    desc: Anxiety
+    - src: https://cdn.midjourney.com/b9adc25f-760c-4853-a070-5a3325d28253/0_1.png
+      desc: Anxiety
 
 paper-02:
   segment: 'week-06'
@@ -385,5 +385,5 @@ paper-02:
   sequence: 2
   type: 'Paper'
   url: 'paper-02'
-  due: 2023-04-08
-  points: 150
+  due: 2023-04-24
+  points: 60

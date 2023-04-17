@@ -2,7 +2,7 @@
 ---
 
 <details>
-  <summary>Paper</summary>
+  <summary>Exegetical Paper on Luke 12</summary>
   <h3>UNPOSSESSED</h3>
   <blockquote>
     The true storehouse for our surplus is benevolence.
@@ -80,8 +80,10 @@
   </p>
 
   <h3>BIBLIOGRAPHY</h3>
-  - Taylor, W. M. (1889). The Parables of Our Saviour. NY: A.C Armstrong & Son.
-  - Tolkien, J. (1954). The Fellowship of the Ring. Boston: Houghton Mifflin.
+  <ul>
+    <li>Taylor, W. M. (1889). The Parables of Our Saviour. NY: A.C Armstrong & Son.</li>
+    <li>Tolkien, J. (1954). The Fellowship of the Ring. Boston: Houghton Mifflin.</li>
+  </ul>
 </details>
 
 <hr class="section"/>
