@@ -31,7 +31,7 @@
   </p>
 
   <p>
-   	The dark parable ends deathly for the rich man blessed by God (v. 16). The Gospel of Luke contrasts the making of the poor rich in God against the rich’s private obsession with wealth, depriving them of hope, relationships, and life. This parable centered around a man’s soliloquy revealing his inner avaricious motives. Upon seeing his land yield plentifully, the wealthy man thinks about capitalizing on this providential endowment. Greed overtakes his heart as a “man with an evil eye hastens after wealth and does not know that poverty will come upon him” (Prov. 28:22). The Lord reveals the man hidden thoughts, starting with a question he asks himself:
+   	The dark parable ends deadly for the rich man blessed by God (v. 16). The Gospel of Luke contrasts the making of the poor rich in God against the rich’s private obsession with wealth, depriving them of hope, relationships, and life. This parable centered around a man’s soliloquy revealing his inner avaricious motives. Upon seeing his land yield plentifully, the wealthy man thinks about capitalizing on this providential endowment. Greed overtakes his heart as a “man with an evil eye hastens after wealth and does not know that poverty will come upon him” (Prov. 28:22). The Lord reveals the man hidden thoughts, starting with a question he asks himself:
   </p>
 
   <blockquote>

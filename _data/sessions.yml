@@ -387,3 +387,6 @@ paper-02:
   url: 'paper-02'
   due: 2023-04-24
   points: 60
+  images:
+    - src: https://cdn.midjourney.com/302ffbc8-0df9-4f23-8ebe-f446cb872791/grid_0.png
+      desc: Mustard Seed Parable
